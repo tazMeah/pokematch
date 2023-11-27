@@ -1,0 +1,18 @@
+body {
+    background: green;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 225px;
+    width: 300px;
+}
+
+main {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+}
